@@ -43,6 +43,8 @@ According to [1], I first preprocessed the game screens with following steps:
 4. The third layer convolves with a 3x3x64x64 kernel at a stride of 1.
 5. FullyConnected 1600x512
 6. Readout: FullyConnected 512x2
+
+
 ** Training **
 For training, you should do the following:
 
@@ -73,3 +75,6 @@ This work is highly based on the following repos:
 
 1. [sourabhv/FlapPyBird](https://github.com/sourabhv/FlapPyBird)
 2. [asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
+
+## Slides
+[Google Docs] https://goo.gl/9UJNCu
