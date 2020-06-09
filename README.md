@@ -1,7 +1,7 @@
 # Meetup Barranquilla: Reinforcement learning
 
-Deep Q-learning agent for replicating DeepMind's results in paper ["Human-level control through deep reinforcement learning"](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html). It is designed to be simple, fast and easy to extend.
-<img src="https://keon.io/images/deep-q-learning/rl.png" width="450">
+Deep Q-learning agent for replicating DeepMind's results in paper ["Human-level control through deep reinforcement learning"](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
+
 
 ## Overview
 This project follows the description of the Deep Q Learning algorithm described in Playing Atari with Deep Reinforcement Learning [2] and shows that this learning algorithm can be further generalized to the notorious Flappy Bird, Pong and Space Invaders.
@@ -77,4 +77,4 @@ This work is highly based on the following repos:
 2. [asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
 
 ## Slides
-[Google Docs] https://goo.gl/9UJNCu
+[Google Slides] https://docs.google.com/presentation/d/1Oi0C0NpUMlbO1FFujI7rTdc1zeIyGOEEwHLhoC88XYM/edit?usp=sharing
