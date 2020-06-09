@@ -1,7 +1,7 @@
 # Meetup Barranquilla: Reinforcement learning
 
 Deep Q-learning agent for replicating DeepMind's results in paper ["Human-level control through deep reinforcement learning"](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html). It is designed to be simple, fast and easy to extend.
-<img src="https://keon.io/images/deep-q-learning/rl.png" width="450">
+
 
 ## Overview
 This project follows the description of the Deep Q Learning algorithm described in Playing Atari with Deep Reinforcement Learning [2] and shows that this learning algorithm can be further generalized to the notorious Flappy Bird, Pong and Space Invaders.
@@ -26,7 +26,6 @@ If you have NVIDIA GPU, you should do:
 It is a convolutional neural network, trained with a variant of Q-learning, whose input is raw pixels and whose output is a value function estimating future rewards. For those who are interested in deep reinforcement learning, I highly recommend to read the following post:
 [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 
-<img src="https://www.nervanasys.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-27-at-10.59.50-AM.png" width="450">
 
 ## FlappyBird Architecture 
 
