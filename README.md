@@ -26,7 +26,7 @@ If you have NVIDIA GPU, you should do:
 It is a convolutional neural network, trained with a variant of Q-learning, whose input is raw pixels and whose output is a value function estimating future rewards. For those who are interested in deep reinforcement learning, I highly recommend to read the following post:
 [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 
-<img src="https://www.nervanasys.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-27-at-10.59.50-AM.png" width="450">
+
 
 ## FlappyBird Architecture 
 
